@@ -1,0 +1,33 @@
+.br-logo {
+    width: 50px;
+}
+
+.homepage h2 {
+    color: white;
+    font-weight: bold;
+}
+
+.section-yellow {
+    color: #FB9F00;
+}
+
+.logo-container {
+    margin-left: 10px;
+}
+
+.my-img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.text-dark {
+    margin-top: 10px;
+}
+
+.card-container {
+    margin-top: 10px;
+}
+
+.colorlib { 
+    color: #333333;
+}
