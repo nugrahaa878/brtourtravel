@@ -35,3 +35,25 @@
 .kontak {
     color: white;
 }
+
+.paket-img {
+    height: 400px;
+    width: auto;
+    border-radius: 10px;
+}
+
+.day {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.btn-detail-paket {
+    margin:0 auto;
+    display:block;
+    margin-bottom: 50px;
+}
+
+.card-paket {
+    margin: 0 20px;
+}
